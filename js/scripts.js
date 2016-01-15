@@ -7,8 +7,13 @@ $(document).ready(function(){
     var gender = $("select#gender").val();
       if (social === "solo") {
         $("#cancunid").show();
+        }else if (social === "date") {
+          $("#parisid").show();
+        }else if (social === "fam") {
+          $("#orlandoid").show();
+        }
 event.preventDefault()
-    };
+    });
       });
 
-        });
+        ;
