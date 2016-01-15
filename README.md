@@ -28,4 +28,4 @@ Intended on providing realistic getaway options, this quiz will define your futu
 
 ### License
 
-Copyright (c) 2016 **_{Austin J Minnon ; Epicodus}_**
+Copyright (c) 2016 [Austin J Minnon] ; [Epicodus]
