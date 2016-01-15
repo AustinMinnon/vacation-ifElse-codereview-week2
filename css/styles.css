@@ -1,0 +1,38 @@
+body{
+  background-image: url(../img/bg2.png);
+  background-size: cover;
+}
+
+h1{
+  color: #696969;
+  text-align: center;
+  border: solid lightblue;
+  margin-top: 60px;
+  font-family: sans-serif;
+}
+
+.container{
+  align-content: space-around;
+}
+
+.col-md-4{
+  width: 50%;
+}
+
+#left{
+  text-align: left;
+}
+
+#right{
+  text-align: right;
+}
+
+.text{
+  margin: 50px;
+
+  text-align: center;
+  border: solid black;
+  width:1000px;
+  word-wrap: normal;
+
+}
