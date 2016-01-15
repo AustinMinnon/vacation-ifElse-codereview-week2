@@ -19,13 +19,32 @@ h1{
   width: 50%;
 }
 
-#left{
-  text-align: left;
+#londonid{
+  display: none;
+}
+#romeid{
+  display: none;
 }
 
-#right{
-  text-align: right;
+#parisid{
+  display: none;
 }
+
+#orlandoid{
+  display: none;
+}
+
+#nyid{
+  display: none;
+}
+
+#cancunid{
+  display: none;
+}
+
+/*#vacations {
+  display: none;
+}*/
 
 .text{
   margin: 50px;
