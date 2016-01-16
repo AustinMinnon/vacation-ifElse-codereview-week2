@@ -5,7 +5,8 @@ body {
 h1 {
     color: #696969;
     text-align: center;
-    border: solid lightblue;
+    text-decoration: underline;
+    color: #7486A4;
     margin-top: 60px;
     font-family: sans-serif;
 }
