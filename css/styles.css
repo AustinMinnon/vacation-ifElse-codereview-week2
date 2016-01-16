@@ -1,57 +1,42 @@
-body{
-  background-image: url(../img/bg2.png);
-  background-size: cover;
+body {
+    background-image: url(../img/bg2.png);
+    background-size: cover;
 }
-
-h1{
-  color: #696969;
-  text-align: center;
-  border: solid lightblue;
-  margin-top: 60px;
-  font-family: sans-serif;
+h1 {
+    color: #696969;
+    text-align: center;
+    border: solid lightblue;
+    margin-top: 60px;
+    font-family: sans-serif;
 }
-
-.container{
-  align-content: space-around;
+.container {
+    align-content: space-around;
 }
-
-.col-md-4{
-  width: 50%;
+.col-md-4 {
+    width: 50%;
 }
-
-#londonid{
-  display: none;
+#londonid {
+    display: none;
 }
-#romeid{
-  display: none;
+#romeid {
+    display: none;
 }
-
-#parisid{
-  display: none;
+#parisid {
+    display: none;
 }
-
-#orlandoid{
-  display: none;
+#orlandoid {
+    display: none;
 }
-
-#nyid{
-  display: none;
+#nyid {
+    display: none;
 }
-
-#cancunid{
-  display: none;
+#cancunid {
+    display: none;
 }
-
-/*#vacations {
-  display: none;
-}*/
-
-.text{
-  margin: 50px;
-
-  text-align: center;
-  border: solid black;
-  width:1000px;
-  word-wrap: normal;
-
+.text {
+    margin: 50px;
+    text-align: center;
+    border: solid black;
+    width: 1000px;
+    word-wrap: normal;
 }
